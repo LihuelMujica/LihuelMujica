@@ -1,4 +1,4 @@
-#Titulo
+# Titulo
 - 👋 Hi, I’m @LihuelMujica
 - 👀 I’m interested in Physics, Data Science and Artificial Intelligence.
 - 🌱 I’m currently learning R, Python, Physics and Maths
