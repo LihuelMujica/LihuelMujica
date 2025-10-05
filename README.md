@@ -2,12 +2,12 @@
 #### Software Developer specialized in backend
 ![Software Developer specialized in backend](https://shareprogramming.net/wp-content/uploads/2021/01/spring-boot-banner-1.jpg)
 
-Lover of science and technology. Currently studying software development at Digital House. I'm looking for new challenges! : )
+Lover of science and technology. Currently studying Cyber Defense at the National Defense University. I'm looking for new challenges! : )
 
 Skills: Java / Spring / Spring Security / REST / ANGULAR / TS / HTML / CSS
 
-- 🔭 I’m currently working on No Country 
-- 🌱 I’m currently learning Microservice Architecture 
+- 🔭 I’m currently working on Baufest
+- 🌱 I’m currently learning how to improve my workflow using AI
 - 👯 I’m looking to collaborate on high impact projects 
 - 💬 Ask me about anything you want 
 - 📫 How to reach me: lihuelmujica@gmail.com 
